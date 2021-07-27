@@ -5,7 +5,7 @@ local make = function(c)
         {hlgroup = 'LspReferenceText', guifg = nil, guibg = nil, gui = 'underline', guisp = c.base04},
         {hlgroup = 'LspReferenceRead', guifg = nil, guibg = nil, gui = 'underline', guisp = c.base04},
         {hlgroup = 'LspReferenceWrite', guifg = nil, guibg = nil, gui = 'underline', guisp = c.base04},
-        {hlgroup = 'LspDiagnosticsDefaultError', guifg = c.base08, guibg = nil, gui = 'none', guisp = nil},
+        {hlgroup = 'LspDiagnosticsDefaultError', guifg = c.base0F, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'LspDiagnosticsDefaultWarning', guifg = c.base0A, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'LspDiagnosticsDefaultInformation', guifg = c.base0D, guibg = nil, gui = 'none', guisp = nil},
         {hlgroup = 'LspDiagnosticsDefaultHint', guifg = c.base05, guibg = nil, gui = 'none', guisp = nil},
