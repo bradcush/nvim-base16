@@ -8,10 +8,10 @@ Base16 colorschemes for Neovim
 ## Installation
 
 - Add `vim.cmd('colorscheme base16-default-dark')` to your `init.lua`
-- Alternatively add  `colorscheme base16-default-dark` to your `init.vim`
+- Alternatively add `colorscheme base16-default-dark` to your `init.vim`
 
 ### `vim-plug` example
 
 ``` lua
-Plug 'bradcush/base16-nvim
+Plug 'bradcush/nvim-base16
 ```
