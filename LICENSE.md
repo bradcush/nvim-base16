@@ -2,7 +2,7 @@
 
 - Copyright (c) 2012 [Chris Kempson](http://chriskempson.com)
 - Copyright (c) 2021 [Adam P. Regasz-Rethy](https://github.com/RRethy)
-- Copyright (c) 2021 Bradley Cushing
+- Copyright (c) 2021 [Bradley Cushing](https://bradleycushing.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
