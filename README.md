@@ -1,5 +1,9 @@
 # Base16 Neovim
 
+*Important: This repository was recently renamed from `base16-nvim` to
+`nvim-base16` as most Vim and Neovim plugins follow this convention. Please
+update your references accordingly, sorry for any inconvenience.*
+
 Base16 colorschemes for Neovim
 
 - See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
